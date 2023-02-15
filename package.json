@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "UI tests for RHWA products",
   "scripts": {
-    "test": "npx cypress run --browser chrome --spec 'cypress/tests/Default NHCTests.js'"
+    "test": "npx cypress run --browser chrome --spec 'cypress/tests/Default NHCTests.spec.js'"
   },
   "repository": {
     "type": "git",
