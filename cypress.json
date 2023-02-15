@@ -1,0 +1,4 @@
+{
+    "watchForFileChanges": false,
+    "baseUrl": "http://console-openshift-console.apps.ocp-edge-cluster-0.qe.lab.redhat.com"
+}
